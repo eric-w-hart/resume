@@ -93,10 +93,11 @@ ATS Onsite Technical – GE  [IT Services]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 
 
 #### CERTIFICATIONS AND ACCREDATIONS:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             
-GIAC GSEC						
-ISTQB foundations accredited			
-Scrum Alliance Certified Scrum Master				
-SAfe Agile Practitioner Certified
+GIAC GSEC  						
+ISTQB foundations accredited  
+Scrum Alliance Certified Scrum Master  
+SAfe Agile Practitioner Certified  
+
 #### HONORS AND AWARDS:  
 Credit Suisse 2014 Global Partnership Award  
 University of North Carolina at Greensboro  
