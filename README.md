@@ -93,7 +93,7 @@ ATS Onsite Technical – GE  [IT Services]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 
 
 #### CERTIFICATIONS AND ACCREDATIONS:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             
-GIAC GSEC  						
+GIAC GSEC  
 ISTQB foundations accredited  
 Scrum Alliance Certified Scrum Master  
 SAfe Agile Practitioner Certified  
