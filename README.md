@@ -15,7 +15,8 @@ A motivated and passionate individual with an advanced education, 30+ years of t
  
 ## EXPERIENCE:  
 ### Senior Principal Engineer - TLCP  
-•	Accredited into the Technology Leadership Career Program **TLCP**
+Optum	[Healthcare]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Raleigh, NC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5/2020 – Present      
+•	Accredited into the Technology Leadership Career Program **TLCP**  
 • **TLCP** is a recognized career path for individuals with deep technical subject matter expertise in critical, modern and transformative technologies
 
 ### Principal Architect  			
