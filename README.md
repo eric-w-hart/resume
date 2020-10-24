@@ -17,17 +17,19 @@ A motivated and passionate individual with an advanced education, 30+ years of t
 ### Senior Principal Engineer - TLCP  
 Optum	[Healthcare]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Raleigh, NC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5/2020 – Present      
 •	Accredited into the Technology Leadership Career Program **TLCP**  
-• **TLCP** is a recognized career path for individuals with deep technical subject matter expertise in critical, modern and transformative technologies
+• **TLCP** is a recognized career path for individuals with deep technical subject matter expertise in critical, modern and transformative technologies  
+• Designing a Policy as Code framework to enforce governance policies for data  
+• Researching methods to integrate GANs into data security  
 
 ### Principal Architect  			
 Optum	[Healthcare]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Raleigh, NC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2/2018 – 5/2020  
 •	Founder of Optum Security Advocate program an internal Security Champion program. 
 •	Design and update architecture supporting contract-based automation
-•	Increase security footprint across CI/CD delivery work streams
-•	Influence security requirements and best practices across all business lines
-•	Capture security metrics from security tools and leverage results to drive remediation
-•	Drive adoption of application security in DevOps and Cloud initiatives
-•	Create, curate and delivery security focused training within the organization
+•	Increased security footprint across CI/CD delivery work streams
+•	Influenced security requirements and best practices across all business lines
+•	Captured security metrics from security tools and leverage results to drive remediation
+•	Drove adoption of application security in DevOps and Cloud initiatives
+•	Created, curated and delivered security focused training within the organization
 •	Frequent speaker on security in DevOps
 
 ### Cyber Security Architect  
@@ -83,7 +85,13 @@ ATS Onsite Technical – GE  [IT Services]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 •	SANS 401 / Security Essentials – GSEC Certification
 •	SANS 560 / Penetration Testing and Ethical Hacking
 •	SANS 503 / Intrusion Detection – In Depth
-•	3.5 GPA
+•	3.5 GPA  
+
+### SPEAKING ENGAGEMENTS  
+All Things Open 2020  
+Optum Dev Days 2018, 2019, 2020  
+Cloud Security Alliance - Triangle Chapter  
+
 
 #### University of North Carolina at Greensboro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Greensboro, NC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1993 – 1996  
 •	Bachelors in Arts
