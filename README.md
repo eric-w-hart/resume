@@ -20,7 +20,8 @@ Optum	[Healthcare]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Raleigh, NC&nb
 • **TLCP** is a recognized career path for individuals with deep technical subject matter expertise in critical, modern and transformative technologies  
 • Designing a Policy as Code framework to enforce governance policies for data  
 • Researching methods to integrate GANs into data security  
-• Presenter at [All Things Open 2020](https://www.youtube.com/watch?v=K6gSDFFNJXg)  
+• Presenter at [All Things Open 2020](https://www.youtube.com/watch?v=K6gSDFFNJXg)
+• Creator of the Optum Security Advocate program  
 
 ### Principal Architect  			
 Optum	[Healthcare]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Raleigh, NC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2/2017 – 5/2020  
