@@ -21,17 +21,18 @@ Optum	[Healthcare]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Raleigh, NC&nb
 • Designing a Policy as Code framework to enforce governance policies for data  
 • Researching methods to integrate GANs into data security  
 • Presenter at [All Things Open 2020](https://www.youtube.com/watch?v=K6gSDFFNJXg)  
-• Creator of the Optum Security Advocate program  
+•	Founder of Optum Threat Modeling course curriculum in Optum Tech University.  
+
 
 ### Principal Architect  			
 Optum	[Healthcare]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Raleigh, NC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2/2017 – 5/2020  
 •	Founder of Optum Security Advocate program an internal Security Champion program   
 •	Design and update architecture supporting contract-based automation  
-•	Increased security footprint across CI/CD delivery work streams  
+•	Increased security footprint across CI/CD delivery work streams by driving the adoption of Contrast and Twistlock   
 •	Influenced security requirements and best practices across all business lines  
 •	Captured security metrics from security tools and leverage results to drive remediation  
 •	Drove adoption of application security in DevOps and Cloud initiatives  
-•	Created, curated and delivered security focused training within the organization  
+•	Created, curated and delivered security focused training within the organization, including Optum's first capture the flag challenge    
 •	Frequent speaker on security in DevOps  
 
 ### Cyber Security Architect  
