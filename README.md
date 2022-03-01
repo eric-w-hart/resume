@@ -17,7 +17,7 @@ A motivated and passionate individual with an advanced education, 30+ years of t
  
 ## EXPERIENCE:  
 ### Director of Security - Open Source Program Office  
-Optum	[Healthcare]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Raleigh, NC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2/1/2022 – 2/1/2022  
+Optum	[Healthcare]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Raleigh, NC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2/1/2022 – Present    
 •	Lead Security Guild as part of the Open Source Program Office  
 •	Drive strategic vision and implementation of turn-key mechanisms to develop and use secure open-source applications  
 
