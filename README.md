@@ -45,7 +45,7 @@ Optum	[Healthcare]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Raleigh, NC&nb
 •	Frequent speaker on security in DevOps  
 
 ### Cyber Security Architect  
-Credit Suisse, AG [Finance]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Raleigh, NC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1/2015 – 12/2017  
+Credit Suisse, AG [Finance]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Raleigh, NC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1/2014 – 12/2016  
 •	Engineering design, implementation of systems used to protect, detect, respond, monitor and report violations of corporate standards based on NIST and OWASP standards  
 •	SME on product evaluation, application and mobile policy for security governance board   
 •	Designed and supported initiation of Tanium endpoint monitoring solution to enable IOC detection and threat vulnerability  
@@ -53,7 +53,7 @@ Credit Suisse, AG [Finance]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ralei
 •	Reported metrics and findings to executive level management  
 
 ### Head of Secure Software Automation Engineering  
-Credit Suisse, AG  [Finance]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Raleigh, NC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8/2009 – 1/2015  
+Credit Suisse, AG  [Finance]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Raleigh, NC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8/2009 – 1/2014  
 •	Managed an annual 2.5mn CHF budget leading a global team of 35 onshore/offshore software architects and engineers, managing and executing releases and peer reviews. Delivered a 20% increase in defect rate by improving key areas of testing protocols including configuration and internal penetration testing for 33 projects   
 •	Lead software solutions architect that created architecture design of automation, design patterns, delivery, scope, secure application development, functional and technical documentation, test plans, application level penetration testing and cost of various end-to-end solutions as a managed service offering to the bank   
 •	Architected and implemented a security driven mobile testing framework covering native and non-native applications using cloud technology and single sign-on to test mobile banking apps and reduced the company’s testing footprint by 80%   
