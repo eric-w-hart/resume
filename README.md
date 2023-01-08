@@ -1,9 +1,10 @@
 ## PROFESSIONAL SUMMARY: 
-A motivated and passionate individual with an advanced education, 30+ years of technology and security experience and a long list of quality skills and accomplishments.
+A motivated and passionate individual with an advanced education, 30+ years of technology and security experience and a long list of quality skills and accomplishments. I bring strategic planning, threat assessment/threat modeling and a rich background across several industries to any organization. 
 
 ## SKILLS SUMMARY: 
  
-•	Cloud Security Alliance (President Triangle Chapter)  
+•	Cloud Security Alliance (Founder/Former President Triangle Chapter)  
+•	SANS GSEC certified  
 •	SAST, DAST, IAST, SCA tools and remediation  
 •	NIST and OWASP Top 10 standards  
 •	Systems and Solutions Architecture  
@@ -13,14 +14,20 @@ A motivated and passionate individual with an advanced education, 30+ years of t
 •	Threat Modeling  
 •	Cloud Technologies  
 •	Open Source Security  
+•	Software development background
 
  
 ## EXPERIENCE:  
+### Director of Application Security  
+MetLife  [Insurance]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cary, NC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12/12/2022 – Present     
+•	Lead core application security testing and engineering team  
+•	Drive alignment to BSIMM framework, SANS/CWE Top 25 and OWASP Top 10 for 4000 applications  
+•	Lead mission of improving application security practices using MITRE ATT&CK and the Cyber Kill Chain  
+
 ### Director of Security - Open Source Program Office  
-Optum	[Healthcare]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Raleigh, NC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2/1/2022 – Present    
+Optum	[Healthcare]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Raleigh, NC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2/1/2022 – 12/1/2022     
 •	Lead Security Guild as part of the Open Source Program Office  
 •	Drive strategic vision and implementation of turn-key mechanisms to develop and use secure open-source applications  
-
 
 
 ### Senior Principal Engineer - TLCP  
