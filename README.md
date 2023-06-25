@@ -1,5 +1,5 @@
 ## PROFESSIONAL SUMMARY: 
-A motivated and passionate individual with an advanced education, 30+ years of technology and security experience and a long list of quality skills and accomplishments. I bring strategic planning, threat assessment/threat modeling and a rich background across several industries to any organization. 
+A motivated and passionate individual with an advanced education, 30+ years of technology and security experience and a long list of quality skills and accomplishments. I bring strategic planning, threat assessment/threat modeling, ethical hacking, and a rich background across several industries to any organization. 
 
 ## SKILLS SUMMARY: 
  
